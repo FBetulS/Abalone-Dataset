@@ -3,7 +3,7 @@
 Bu proje, Abalone veri setini kullanarak deniz kabuklularının yaşını tahmin etmeyi amaçlamaktadır. Veri seti, farklı fiziksel özelliklerin yanı sıra, her bir abalone için halkaların sayısını içermektedir. Projede, XGBoost ve Random Forest gibi makine öğrenimi modelleri kullanılarak tahminler yapılmaktadır.
 
 ## 🔗 Kaggle Veri Seti
-[Abalone Dataset]
+[Abalone Dataset](https://www.kaggle.com/datasets/rodolfomendes/abalone-dataset)
 
 ## 📊 Proje Aşamaları
 1. **Veri Yükleme**:
