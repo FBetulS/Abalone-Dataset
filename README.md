@@ -37,10 +37,3 @@ Bu proje, Abalone veri setini kullanarak deniz kabuklularının yaşını tahmin
 ## 📈 Model Performansı
 - **XGBoost RMSE**: `xgb_rmse` değişkeninde saklanır.
 - **Random Forest RMSE**: `rf_rmse` değişkeninde saklanır.
-
-## 🔍 Önemli Özellikler
-XGBoost modeli kullanılarak elde edilen özelliklerin önem dereceleri görselleştirilmiştir.
-
-```python
-importances = xgb_model.feature_importances_
-plt.barh(feature_names, importances)
