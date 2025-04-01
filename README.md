@@ -8,6 +8,8 @@ Bu proje, Abalone veri setini kullanarak deniz kabuklularının yaşını tahmin
 ## 🔗 Kaggle Veri Seti
 [Abalone Dataset](https://www.kaggle.com/datasets/rodolfomendes/abalone-dataset)
 
+#### [Abalone Dataset - Hugging Face](https://huggingface.co/spaces/btulftma/abalone_dataset)
+
 ## 📊 Proje Aşamaları
 1. **Veri Yükleme**:
    - Veri setleri `train.csv` ve `test.csv` dosyalarından yüklenir.
